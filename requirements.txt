@@ -95,7 +95,7 @@ pexpect==4.8.0
 pickleshare==0.7.5
 pilkit==2.0
 Pillow==7.0.0
-pipenv==2018.11.26
+pipenv==2022.1.8
 plumber==1.5
 prometheus-client==0.7.1
 prompt-toolkit==3.0.4
